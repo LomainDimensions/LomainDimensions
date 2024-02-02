@@ -1,5 +1,5 @@
 ### Hi there 👋
-The owner of the account **has changed** his name.
+The owner of the account **has changed** his name !  
 Please visit [Lomaiin](github.com/Lomaiin) if this is what you're looking for.
 
 <!--
