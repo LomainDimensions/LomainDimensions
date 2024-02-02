@@ -1,6 +1,6 @@
 ### Hi there 👋
 The owner of the account **has changed** his name !  
-Please visit [Lomaiin](github.com/Lomaiin) if this is what you're looking for.
+Please visit [Lomaiin](https://github.com/Lomaiin) if this is what you're looking for.
 
 <!--
 **LomainDimensions/LomainDimensions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
